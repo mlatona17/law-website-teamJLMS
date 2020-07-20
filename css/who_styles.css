@@ -79,6 +79,8 @@ grid-template-rows: 50px 20px;
 grid-template-areas: 
 "links" 
 "copyright";
+
+
 }
 /* -----------------------------------------------------End of Grid Layout------------------------------------ */
 
@@ -183,7 +185,7 @@ p#sidebar-bullets {
     margin-top: 10px;
     margin-left: 15px;
     color: whitesmoke;
-    }
+}
 
 #map{
     margin: -10px;
@@ -204,13 +206,9 @@ grid-area: content-text;
 width: 97.5%;
 height: 100%;
 margin-left: 2.5%;
+
 /* background-color: rgba(39, 37, 37, 0.308); */
-
 }
-
-
-
-
 
 /*-----------------------------------------------------------footer section---------------------------------------- */
 /* -------------------------------links----------------------------- */
